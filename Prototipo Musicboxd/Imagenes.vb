@@ -19,10 +19,6 @@ Public Class Imagenes
                     green = img.GetPixel(x, y).G
                     blue = img.GetPixel(x, y).B
 
-                    'If red > 200 And green > 200 And blue > 200 Then
-                    '    img.SetPixel(x, y, Color.Transparent)
-                    'End If
-
                     If red < 61 And blue < 61 And green < 61 Then
                         img.SetPixel(x, y, Color.LightSlateGray)
                     Else
