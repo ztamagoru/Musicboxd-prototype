@@ -163,7 +163,7 @@ Partial Class formIniciarSesion
         'pictureSettings
         '
         Me.pictureSettings.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureSettings.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.d579d5d1226c79750dbc44c16c9d2672
+        Me.pictureSettings.Image = Global.PrototipoMusicboxd.My.Resources.Resources.d579d5d1226c79750dbc44c16c9d2672
         Me.pictureSettings.Location = New System.Drawing.Point(0, 0)
         Me.pictureSettings.Name = "pictureSettings"
         Me.pictureSettings.Size = New System.Drawing.Size(38, 37)
@@ -173,7 +173,7 @@ Partial Class formIniciarSesion
         '
         'pictureLogo
         '
-        Me.pictureLogo.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.logo_musicboxd
+        Me.pictureLogo.Image = Global.PrototipoMusicboxd.My.Resources.Resources.logo_musicboxd
         Me.pictureLogo.Location = New System.Drawing.Point(268, 56)
         Me.pictureLogo.Name = "pictureLogo"
         Me.pictureLogo.Size = New System.Drawing.Size(260, 189)
@@ -183,7 +183,7 @@ Partial Class formIniciarSesion
         '
         'pictureFondo1
         '
-        Me.pictureFondo1.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.Untitled_1
+        Me.pictureFondo1.Image = Global.PrototipoMusicboxd.My.Resources.Resources.Untitled_1
         Me.pictureFondo1.Location = New System.Drawing.Point(-247, 413)
         Me.pictureFondo1.Name = "pictureFondo1"
         Me.pictureFondo1.Size = New System.Drawing.Size(592, 238)
@@ -193,7 +193,7 @@ Partial Class formIniciarSesion
         '
         'PictureBox1
         '
-        Me.PictureBox1.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.Untitled_2
+        Me.PictureBox1.Image = Global.PrototipoMusicboxd.My.Resources.Resources.Untitled_2
         Me.PictureBox1.Location = New System.Drawing.Point(487, -92)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(592, 238)

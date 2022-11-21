@@ -1,42 +1,6 @@
 ﻿Imports System.Linq
 
 Public Class formConfiguración
-    Private Sub radioIngles_CheckedChanged(sender As Object, e As EventArgs) Handles radioIngles.CheckedChanged
-        radioEspañol.Checked = True
-
-        MessageBox.Show("Función en mantenimiento." + Environment.NewLine +
-                       "Estamos trabajando para darte una mejor experiencia.",
-                       "Aviso",
-                       MessageBoxButtons.OK)
-    End Sub
-
-    Private Sub radioJapones_CheckedChanged(sender As Object, e As EventArgs) Handles radioJapones.CheckedChanged
-        radioEspañol.Checked = True
-
-        MessageBox.Show("Función en mantenimiento." + Environment.NewLine +
-                       "Estamos trabajando para darte una mejor experiencia.",
-                       "Aviso",
-                       MessageBoxButtons.OK)
-    End Sub
-
-    Private Sub radioFrances_CheckedChanged(sender As Object, e As EventArgs) Handles radioFrances.CheckedChanged
-        radioEspañol.Checked = True
-
-        MessageBox.Show("Función en mantenimiento." + Environment.NewLine +
-                       "Estamos trabajando para darte una mejor experiencia.",
-                       "Aviso",
-                       MessageBoxButtons.OK)
-    End Sub
-
-    Private Sub radioRuso_CheckedChanged(sender As Object, e As EventArgs) Handles radioRuso.CheckedChanged
-        radioEspañol.Checked = True
-
-        MessageBox.Show("Función en mantenimiento." + Environment.NewLine +
-                       "Estamos trabajando para darte una mejor experiencia.",
-                       "Aviso",
-                       MessageBoxButtons.OK)
-    End Sub
-
     Private Sub buttonGuardar_Click(sender As Object, e As EventArgs) Handles buttonGuardar.Click
         Me.Hide()
     End Sub

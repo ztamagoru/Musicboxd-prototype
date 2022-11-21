@@ -411,7 +411,7 @@ Partial Class formPantallaInicio
         'pictureSettings
         '
         Me.pictureSettings.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureSettings.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.d579d5d1226c79750dbc44c16c9d2672
+        Me.pictureSettings.Image = Global.PrototipoMusicboxd.My.Resources.Resources.d579d5d1226c79750dbc44c16c9d2672
         Me.pictureSettings.Location = New System.Drawing.Point(0, -1)
         Me.pictureSettings.Name = "pictureSettings"
         Me.pictureSettings.Size = New System.Drawing.Size(38, 37)
@@ -422,7 +422,7 @@ Partial Class formPantallaInicio
         'pictureAlbum10
         '
         Me.pictureAlbum10.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureAlbum10.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.zarcort___creeper_vs_zombie
+        Me.pictureAlbum10.Image = Global.PrototipoMusicboxd.My.Resources.Resources.zarcort___creeper_vs_zombie
         Me.pictureAlbum10.Location = New System.Drawing.Point(737, 428)
         Me.pictureAlbum10.Name = "pictureAlbum10"
         Me.pictureAlbum10.Size = New System.Drawing.Size(123, 125)
@@ -433,7 +433,7 @@ Partial Class formPantallaInicio
         'pictureAlbum9
         '
         Me.pictureAlbum9.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureAlbum9.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.christina_aguilera___bound_to_you
+        Me.pictureAlbum9.Image = Global.PrototipoMusicboxd.My.Resources.Resources.christina_aguilera___bound_to_you
         Me.pictureAlbum9.Location = New System.Drawing.Point(575, 428)
         Me.pictureAlbum9.Name = "pictureAlbum9"
         Me.pictureAlbum9.Size = New System.Drawing.Size(123, 125)
@@ -444,7 +444,7 @@ Partial Class formPantallaInicio
         'pictureAlbum8
         '
         Me.pictureAlbum8.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureAlbum8.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.rex_orange_county___television_
+        Me.pictureAlbum8.Image = Global.PrototipoMusicboxd.My.Resources.Resources.rex_orange_county___television_
         Me.pictureAlbum8.Location = New System.Drawing.Point(413, 428)
         Me.pictureAlbum8.Name = "pictureAlbum8"
         Me.pictureAlbum8.Size = New System.Drawing.Size(123, 125)
@@ -455,7 +455,7 @@ Partial Class formPantallaInicio
         'pictureAlbum7
         '
         Me.pictureAlbum7.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureAlbum7.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.adam_hicks___living_on_a_high_wire
+        Me.pictureAlbum7.Image = Global.PrototipoMusicboxd.My.Resources.Resources.adam_hicks___living_on_a_high_wire
         Me.pictureAlbum7.Location = New System.Drawing.Point(251, 428)
         Me.pictureAlbum7.Name = "pictureAlbum7"
         Me.pictureAlbum7.Size = New System.Drawing.Size(123, 125)
@@ -466,7 +466,7 @@ Partial Class formPantallaInicio
         'pictureAlbum6
         '
         Me.pictureAlbum6.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureAlbum6.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.jamiroquai___virtual_insanity__remastered_
+        Me.pictureAlbum6.Image = Global.PrototipoMusicboxd.My.Resources.Resources.jamiroquai___virtual_insanity__remastered_
         Me.pictureAlbum6.Location = New System.Drawing.Point(89, 428)
         Me.pictureAlbum6.Name = "pictureAlbum6"
         Me.pictureAlbum6.Size = New System.Drawing.Size(123, 125)
@@ -477,7 +477,7 @@ Partial Class formPantallaInicio
         'pictureAlbum5
         '
         Me.pictureAlbum5.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureAlbum5.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.charlie_puth___left_and_right
+        Me.pictureAlbum5.Image = Global.PrototipoMusicboxd.My.Resources.Resources.charlie_puth___left_and_right
         Me.pictureAlbum5.Location = New System.Drawing.Point(737, 168)
         Me.pictureAlbum5.Name = "pictureAlbum5"
         Me.pictureAlbum5.Size = New System.Drawing.Size(123, 125)
@@ -488,7 +488,7 @@ Partial Class formPantallaInicio
         'pictureAlbum4
         '
         Me.pictureAlbum4.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureAlbum4.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.harry_styles___as_it_was
+        Me.pictureAlbum4.Image = Global.PrototipoMusicboxd.My.Resources.Resources.harry_styles___as_it_was
         Me.pictureAlbum4.Location = New System.Drawing.Point(575, 168)
         Me.pictureAlbum4.Name = "pictureAlbum4"
         Me.pictureAlbum4.Size = New System.Drawing.Size(123, 125)
@@ -499,7 +499,7 @@ Partial Class formPantallaInicio
         'pictureAlbum3
         '
         Me.pictureAlbum3.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureAlbum3.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.joji___glimpse_of_us
+        Me.pictureAlbum3.Image = Global.PrototipoMusicboxd.My.Resources.Resources.joji___glimpse_of_us
         Me.pictureAlbum3.Location = New System.Drawing.Point(413, 168)
         Me.pictureAlbum3.Name = "pictureAlbum3"
         Me.pictureAlbum3.Size = New System.Drawing.Size(123, 125)
@@ -510,7 +510,7 @@ Partial Class formPantallaInicio
         'pictureAlbum2
         '
         Me.pictureAlbum2.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureAlbum2.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.Post_malone___I_like_you__a_happier_song_
+        Me.pictureAlbum2.Image = Global.PrototipoMusicboxd.My.Resources.Resources.Post_malone___I_like_you__a_happier_song_
         Me.pictureAlbum2.Location = New System.Drawing.Point(251, 168)
         Me.pictureAlbum2.Name = "pictureAlbum2"
         Me.pictureAlbum2.Size = New System.Drawing.Size(123, 125)
@@ -521,7 +521,7 @@ Partial Class formPantallaInicio
         'pictureAlbum1
         '
         Me.pictureAlbum1.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureAlbum1.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.Beyonce___Break_my_soul
+        Me.pictureAlbum1.Image = Global.PrototipoMusicboxd.My.Resources.Resources.Beyonce___Break_my_soul
         Me.pictureAlbum1.Location = New System.Drawing.Point(89, 168)
         Me.pictureAlbum1.Name = "pictureAlbum1"
         Me.pictureAlbum1.Size = New System.Drawing.Size(123, 125)
@@ -531,7 +531,7 @@ Partial Class formPantallaInicio
         '
         'picturePFP
         '
-        Me.picturePFP.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.avatars_Q22z9Vk1NPQvzi1N_zso1fw_t500x500
+        Me.picturePFP.Image = Global.PrototipoMusicboxd.My.Resources.Resources.avatars_Q22z9Vk1NPQvzi1N_zso1fw_t500x500
         Me.picturePFP.Location = New System.Drawing.Point(389, 15)
         Me.picturePFP.Name = "picturePFP"
         Me.picturePFP.Size = New System.Drawing.Size(58, 58)
@@ -542,7 +542,7 @@ Partial Class formPantallaInicio
         'pictureLogo
         '
         Me.pictureLogo.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureLogo.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.logo_musicboxd
+        Me.pictureLogo.Image = Global.PrototipoMusicboxd.My.Resources.Resources.logo_musicboxd
         Me.pictureLogo.Location = New System.Drawing.Point(34, 12)
         Me.pictureLogo.Name = "pictureLogo"
         Me.pictureLogo.Size = New System.Drawing.Size(77, 64)

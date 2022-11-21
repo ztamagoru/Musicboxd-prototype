@@ -119,7 +119,7 @@ Partial Class formPantallaReview
         '
         'pictureAlbum
         '
-        Me.pictureAlbum.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.avatars_Q22z9Vk1NPQvzi1N_zso1fw_t500x5001
+        Me.pictureAlbum.Image = Global.PrototipoMusicboxd.My.Resources.Resources.avatars_Q22z9Vk1NPQvzi1N_zso1fw_t500x5001
         Me.pictureAlbum.Location = New System.Drawing.Point(620, 131)
         Me.pictureAlbum.Name = "pictureAlbum"
         Me.pictureAlbum.Size = New System.Drawing.Size(222, 223)
@@ -130,7 +130,7 @@ Partial Class formPantallaReview
         'pictureSettings
         '
         Me.pictureSettings.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureSettings.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.d579d5d1226c79750dbc44c16c9d2672
+        Me.pictureSettings.Image = Global.PrototipoMusicboxd.My.Resources.Resources.d579d5d1226c79750dbc44c16c9d2672
         Me.pictureSettings.Location = New System.Drawing.Point(1, 1)
         Me.pictureSettings.Name = "pictureSettings"
         Me.pictureSettings.Size = New System.Drawing.Size(38, 37)
@@ -140,7 +140,7 @@ Partial Class formPantallaReview
         '
         'picturePFP
         '
-        Me.picturePFP.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.avatars_Q22z9Vk1NPQvzi1N_zso1fw_t500x500
+        Me.picturePFP.Image = Global.PrototipoMusicboxd.My.Resources.Resources.avatars_Q22z9Vk1NPQvzi1N_zso1fw_t500x500
         Me.picturePFP.Location = New System.Drawing.Point(402, 10)
         Me.picturePFP.Name = "picturePFP"
         Me.picturePFP.Size = New System.Drawing.Size(58, 58)
@@ -151,7 +151,7 @@ Partial Class formPantallaReview
         'pictureLogo
         '
         Me.pictureLogo.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pictureLogo.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.logo_musicboxd
+        Me.pictureLogo.Image = Global.PrototipoMusicboxd.My.Resources.Resources.logo_musicboxd
         Me.pictureLogo.Location = New System.Drawing.Point(36, 7)
         Me.pictureLogo.Name = "pictureLogo"
         Me.pictureLogo.Size = New System.Drawing.Size(77, 64)

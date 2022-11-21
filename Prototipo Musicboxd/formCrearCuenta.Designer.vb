@@ -210,7 +210,7 @@ Partial Class formCrearCuenta
         '
         'pictureLogo
         '
-        Me.pictureLogo.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.logo_musicboxd
+        Me.pictureLogo.Image = Global.PrototipoMusicboxd.My.Resources.Resources.logo_musicboxd
         Me.pictureLogo.Location = New System.Drawing.Point(22, 11)
         Me.pictureLogo.Name = "pictureLogo"
         Me.pictureLogo.Size = New System.Drawing.Size(260, 189)
@@ -220,7 +220,7 @@ Partial Class formCrearCuenta
         '
         'pictureFondo1
         '
-        Me.pictureFondo1.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.Untitled_1
+        Me.pictureFondo1.Image = Global.PrototipoMusicboxd.My.Resources.Resources.Untitled_1
         Me.pictureFondo1.Location = New System.Drawing.Point(432, -36)
         Me.pictureFondo1.Name = "pictureFondo1"
         Me.pictureFondo1.Size = New System.Drawing.Size(592, 238)
@@ -230,7 +230,7 @@ Partial Class formCrearCuenta
         '
         'PictureBox1
         '
-        Me.PictureBox1.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.Untitled_2
+        Me.PictureBox1.Image = Global.PrototipoMusicboxd.My.Resources.Resources.Untitled_2
         Me.PictureBox1.Location = New System.Drawing.Point(-108, 418)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(592, 238)
@@ -240,7 +240,7 @@ Partial Class formCrearCuenta
         '
         'pictureSettings
         '
-        Me.pictureSettings.Image = Global.Prototipo_Musicboxd.My.Resources.Resources.d579d5d1226c79750dbc44c16c9d2672
+        Me.pictureSettings.Image = Global.PrototipoMusicboxd.My.Resources.Resources.d579d5d1226c79750dbc44c16c9d2672
         Me.pictureSettings.Location = New System.Drawing.Point(2, 2)
         Me.pictureSettings.Name = "pictureSettings"
         Me.pictureSettings.Size = New System.Drawing.Size(38, 37)
